@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Card com resumo das minhas habilidades gerado pelo github-readme-stats.vercel.app -->
-![Minhas Habilidades](https://github-readme-stats.vercel.app/api?username=hansmosl&count_private=true&show_icons=true&theme=dracula&locale=pt_BR)
+[![Minhas Habilidades](https://github-readme-stats.vercel.app/api?username=hansmosl&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
