@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 <!-- Card com resumo das minhas habilidades gerado pelo github-readme-stats.vercel.app -->
 [![Minhas Habilidades](https://github-readme-stats.vercel.app/api?username=hansmosl&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hansmosl&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hansmosl&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansmosl&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansmosl&repo=convoychat" />
+</a>
