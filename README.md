@@ -1,4 +1,4 @@
-### Hi there 👋
+# Olá, eu sou o Hans 👋
 
 <!--
 **hansmosl/hansmosl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Card com resumo das minhas habilidades gerado pelo github-readme-stats.vercel.app -->
+![Minhas Habilidades](https://github-readme-stats.vercel.app/api?username=hansmosl&count_private=true&show_icons=true&theme=dracula&locale=pt_BR)
